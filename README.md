@@ -1,12 +1,9 @@
 # Welcome to My GitHub Profile!
 Hello there! 👋 
 
-I'm Roman Dykyi, a passionate student with a keen interest in Asp.Net Core and a strong love for game development and related technologies.
+I'm Roman Dykyi, a passionate student with a strong history of interest in game development and related technologies. My journey began with a fascination for game development, especially with Unity. However, my current focus is on ASP.NET, where I'm eager to expand my skills and knowledge.
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,dotnet,wasm,visualstudio,unity)](https://skillicons.dev)
 
-## My Projects
- * [Labyrinthian](https://github.com/romandykyi/Labyrinthian) - .NET Standard 2.1 library for step-by-step maze generation and SVG export
-
 ## My Games
- * [Low Poly Snake](https://play.google.com/store/apps/details?id=com.Wn3A.LowPolySnake) - 3D snake game in low poly style
+ * [Low Poly Snake](https://play.google.com/store/apps/details?id=com.Wn3A.LowPolySnake) - 3D snake game in low-poly style made with Unity and published on Google Play
